@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Korea Digital Media High School HD 20th
+- I ❤ Swift and Web
+
 ![Kimain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimain050401&show_icons=true&theme=radical)
