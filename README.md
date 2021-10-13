@@ -22,6 +22,7 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 - [findflag.kr](https://findflag.kr)
 - [covid.findflag.kr](https://covid.findflag.kr)
 - [dimitimes.github.io](https://dimitimes.github.io)
+- [Yaza.live](https://yaza.live)
 
 ## Career 🎓
 
