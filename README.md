@@ -16,6 +16,10 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 
 🔨 **Discord** corondev_kimain #0722
 
+⌨️ **Blog(Tistory)** [아인지우개 블로그](https://aineraser.tistory.com)
+
+⌨️ **Blog(GitHub)** [KimAin's Blog](https://kimain.me)
+
 ## Portfolios 🧭
 - [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)
 - [<s>살빼(iOS)(Beta)</s>](https://testflight.apple.com/join/7yyfqT5W)(서비스 종료)
