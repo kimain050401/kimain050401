@@ -18,7 +18,7 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 
 ⌨️ **Blog(Tistory)** [아인지우개 블로그](https://aineraser.tistory.com)
 
-⌨️ **Blog(GitHub)** [KimAin's Blog](https://kimain.me)
+⌨️ **Blog(GitHub)** [KimAin's Blog](https://blog.kimain.me)
 
 ## Portfolios 🧭
 - [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)
