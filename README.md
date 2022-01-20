@@ -23,9 +23,9 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 ## Portfolios 🧭
 - [<s>Coron's APP(iOS)</s>](https://apps.apple.com/kr/app/corons-app/id1551447763)(2/1 서비스 종료 예정)
 - [<s>살빼(iOS)(Beta)</s>](https://testflight.apple.com/join/7yyfqT5W)(서비스 종료)
-- [findflag.kr](https://findflag.kr)
-- [covid.findflag.kr](https://covid.findflag.kr)
-- [dimitimes.github.io](https://dimitimes.github.io)
+- [Find Flag()!(Web)](https://findflag.kr)
+- [코로나19 능력고사(Web)](https://covid.findflag.kr)
+- [디미타임즈(Web)](https://dimitimes.github.io)
 - [디미고미(Web)](https://dimigo.me)
 - [디미고미(iOS)](https://apps.apple.com/kr/app/디미고미/id1598250065)
 - [초록잔디(iOS)](https://apps.apple.com/kr/app/초록잔디/id1602956399)
