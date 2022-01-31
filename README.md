@@ -21,7 +21,7 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 ⌨️ **Blog(GitHub)** [KimAin's Blog](https://blog.kimain.me)
 
 ## Portfolios 🧭
-- [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)(2/1 서비스 종료 예정)
+- [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)(지원 종료)
 - [<s>살빼(iOS)(Beta)</s>](https://testflight.apple.com/join/7yyfqT5W)(서비스 종료)
 - [Find Flag()!(Web)](https://findflag.kr)
 - [코로나19 능력고사(Web)](https://covid.findflag.kr)
