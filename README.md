@@ -1,4 +1,6 @@
-# 더 예쁜 제 소개는 [여기(kimain.me)](https://kimain.me)에서 봐주세요 :)
+<!-- # 더 예쁜 제 소개는 [여기(kimain.me)](https://kimain.me)에서 봐주세요 :) -->
+
+# 개인적인 사정으로 대부분의 서비스를 멈춥니다. 하단 Portfolios를 확인해주세요.
 
 ## About Me 🎙
 
