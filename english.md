@@ -16,7 +16,7 @@ I'm doing my best to learn to make a better world!
 
 🔨 **Discord** corondev_kimain #0722
 
-⌨️ **Blog(Tistory)** [아인지우개 블로그](https://aineraser.tistory.com)
+⌨️ **Blog(Tistory)** [AinEraser Blog](https://aineraser.tistory.com)
 
 ⌨️ **Blog(GitHub)** [KimAin's Blog](https://blog.kimain.me)
 
