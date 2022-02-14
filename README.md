@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/aws-333664?style=round-square&logo=amazon-aws&logoColor=white">
   <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimain050401&repo=green-grass-ios&theme=vue-dark" width=30%>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimain050401&repo=green-grass-web&theme=vue-dark" width=30%>
+  <br><br>
   <a href="https://github.com/kimain050401/kimain050401/blob/main/korean.md">🇰🇷 한국어 프로필</a>
   <a> | </a>
   <a href="https://github.com/kimain050401/kimain050401/blob/main/english.md">🇺🇸 English Profile</a>
