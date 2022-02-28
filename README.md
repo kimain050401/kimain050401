@@ -23,7 +23,7 @@
   <a href="https://github.com/kimain050401/green-grass-ios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kimain050401&repo=green-grass-ios&theme=vue-dark" width=350px><a>
   <a href="https://github.com/kimain050401/green-grass-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kimain050401&repo=green-grass-web&theme=vue-dark" width=350px></a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimain050401&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimain050401&show_icons=true&theme=radical&count_private=true">
   <br><br>
   <a href="https://opgc.me/#/users/kimain050401" target="_blank"><img src="https://api.opgc.me/githubs/users/kimain050401/tag/?border=normal"></a>
   <br><br>
