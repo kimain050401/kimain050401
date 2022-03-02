@@ -28,6 +28,6 @@
   <a href="https://opgc.me/#/users/kimain050401" target="_blank"><img src="https://api.opgc.me/githubs/users/kimain050401/tag/?border=normal"></a>
   <br><br>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimain050401&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-  <br>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
 </div>
