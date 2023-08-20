@@ -6,7 +6,9 @@
     저에 대한 자세한 정보는 
     <a href="https://kimain.me">🇰🇷 한국어 프로필</a>
     을 참고해 주세요 :)
-  <p>
+  </p>
+  <br>
+  <p>많은 레포가 보안 사유로 private이거나 GitHub에 올라와 있지 않습니다 😭</p>
   <br><br>
   <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=round-square&logo=CocoaPods&logoColor=white">
